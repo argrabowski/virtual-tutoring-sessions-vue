@@ -1,0 +1,426 @@
+{
+  "admins": [
+    {
+      "username": "Mr. Story",
+      "password": "wpiPassword12!",
+      "meetings": [
+        {
+          "date": "May 3, 2022",
+          "start": "6:30 AM",
+          "end": "7:00 AM",
+          "tutor": "Mrs. Jones",
+          "student1": "Tanisha",
+          "student2": "Gabriela",
+          "supervisor": "Mr. Story",
+          "studentLoc": "Founders Hall",
+          "tutorLoc": "Library"
+        },
+        {
+          "date": "Jun 17, 2022",
+          "start": "8:00 AM",
+          "end": "8:30 AM",
+          "tutor": "Mr. King",
+          "student1": "Juliet",
+          "student2": "Tamika",
+          "supervisor": "Mr. Story",
+          "studentLoc": "Higgins House",
+          "tutorLoc": "Zoom (View Recording)"
+        },
+        {
+          "date": "Jul 8, 2022",
+          "start": "3:00 PM",
+          "end": "3:30 PM",
+          "tutor": "Mrs. Scott",
+          "student1": "Darnel",
+          "student2": "Joseph",
+          "supervisor": "Mr. Story",
+          "studentLoc": "Kaven Hall",
+          "tutorLoc": "Zoom (View Recording)"
+        },
+        {
+          "date": "Aug 25, 2022",
+          "start": "4:30 PM",
+          "end": "5:00 PM",
+          "tutor": "Mrs. Bell",
+          "student1": "Liam",
+          "student2": "Nick",
+          "supervisor": "Mr. Story",
+          "studentLoc": "Morgan Hall",
+          "tutorLoc": "Library"
+        },
+        {
+          "date": "Mar 2, 2022",
+          "start": "9:30 AM",
+          "end": "10:00 AM",
+          "tutor": "Mr. Perry",
+          "student1": "Olivia",
+          "student2": "Noah",
+          "supervisor": "Mr. Story",
+          "studentLoc": "Olin Hall",
+          "tutorLoc": "Library"
+        },
+        {
+          "date": "Oct 19, 2022",
+          "start": "10:30 AM",
+          "end": "11:00 AM",
+          "tutor": "Mrs. Long",
+          "student1": "Emma",
+          "student2": "Ava",
+          "supervisor": "Mr. Story",
+          "studentLoc": "Project Center",
+          "tutorLoc": "Zoom (View Recording)"
+        }
+      ],
+      "tutors": [
+        {
+          "name": "Mr. Archer",
+          "days": ["Thursday", "Friday"],
+          "times": ["4am-5am", "6pm-7pm"],
+          "location": "Zoom"
+        },
+        {
+          "name": "Mr. Smith",
+          "days": ["Monday", "Wednesday"],
+          "times": ["9am-10am", "7pm-8pm"],
+          "location": "Library"
+        },
+        {
+          "name": "Mrs. Jones",
+          "days": ["Tuesday", "Thursday"],
+          "times": ["10am-11am", "10pm-11pm"],
+          "location": "Zoom"
+        },
+        {
+          "name": "Mr. King",
+          "days": ["Tuesday", "Friday"],
+          "times": ["3am-4am", "9pm-10pm"],
+          "location": "Library"
+        },
+        {
+          "name": "Mrs. Scott",
+          "days": ["Thursday", "Friday"],
+          "times": ["5am-6am", "2pm-3pm"],
+          "location": "Library"
+        },
+        {
+          "name": "Mrs. Bell",
+          "days": ["Monday", "Wednesday"],
+          "times": ["7am-8am", "6pm-7pm"],
+          "location": "Zoom"
+        },
+        {
+          "name": "Mr. Perry",
+          "days": ["Wednesday", "Thursday"],
+          "times": ["4am-5am", "5pm-6pm"],
+          "location": "Zoom"
+        },
+        {
+          "name": "Mrs. Long",
+          "days": ["Wednesday", "Friday"],
+          "times": ["10am-11am", "12pm-1pm"],
+          "location": "Library"
+        },
+        {
+          "name": "Mr. Foster",
+          "days": ["Monday", "Tuesday"],
+          "times": ["8am-9am", "12pm-1pm"],
+          "location": "Zoom"
+        },
+        {
+          "name": "Mrs. Howard",
+          "days": ["Tuesday", "Wednesday"],
+          "times": ["6am-7am", "4pm-5pm"],
+          "location": "Library"
+        }
+      ],
+      "students": [
+        {
+          "name": "Jamal",
+          "score": "80%",
+          "struggle": ["Math", "Reading"],
+          "status": "Requested"
+        },
+        {
+          "name": "Adam",
+          "score": "90%",
+          "struggle": ["Writing", "Reading"],
+          "status": "Received (View Permission)"
+        },
+        {
+          "name": "Tanisha",
+          "score": "80%",
+          "struggle": ["Math", "Physics"],
+          "status": "Requested"
+        },
+        {
+          "name": "Juliet",
+          "score": "90%",
+          "struggle": ["Math", "Reading"],
+          "status": "Received (View Permission)"
+        },
+        {
+          "name": "Darnel",
+          "score": "50%",
+          "struggle": ["Writing", "Physics"],
+          "status": "Requested"
+        },
+        {
+          "name": "Liam",
+          "score": "70%",
+          "struggle": ["Reading", "Writing"],
+          "status": "Received (View Permission)"
+        },
+        {
+          "name": "Olivia",
+          "score": "60%",
+          "struggle": ["Math", "Physics"],
+          "status": "Requested"
+        },
+        {
+          "name": "Emma",
+          "score": "70%",
+          "struggle": ["Writing", "Physics"],
+          "status": "Requested"
+        },
+        {
+          "name": "Charlotte",
+          "score": "50%",
+          "struggle": ["Physics", "Reading"],
+          "status": "Received (View Permission)"
+        },
+        {
+          "name": "Joshua",
+          "score": "80%",
+          "struggle": ["Physics", "Reading"],
+          "status": "Received (View Permission)"
+        }
+      ]
+    }
+  ],
+  "tutors": [
+    {
+      "username": "Mrs. Long",
+      "password": "wpiPassword12!",
+      "meetings": [
+        {
+          "date": "May 3, 2022",
+          "start": "6:30 AM",
+          "end": "7:00 AM",
+          "student1": "Tanisha",
+          "student2": "Gabriela",
+          "supervisor": "Mr. Story",
+          "studentLoc": "Founders Hall",
+          "joinLink": "https://us05web.zoom.us/j/81593225280?pwd=VmFmWkoraTFqREJqakZKU3lVNXJGdz09"
+        },
+        {
+          "date": "Jun 17, 2022",
+          "start": "8:00 AM",
+          "end": "8:30 AM",
+          "student1": "Juliet",
+          "student2": "Tamika",
+          "supervisor": "Mr. Story",
+          "studentLoc": "Higgins House",
+          "joinLink": "https://us05web.zoom.us/j/87350243103?pwd=cXdBbWJoWHgxbmtQQUpsS09CTC9XZz09"
+        },
+        {
+          "date": "Jul 8, 2022",
+          "start": "3:00 PM",
+          "end": "3:30 PM",
+          "student1": "Darnel",
+          "student2": "Joseph",
+          "supervisor": "Mr. Story",
+          "studentLoc": "Kaven Hall",
+          "joinLink": "https://us05web.zoom.us/j/87560967961?pwd=THdrUmtFaW50QmdxeHBKaFFyWTBRUT09"
+        },
+        {
+          "date": "Aug 25, 2022",
+          "start": "4:30 PM",
+          "end": "5:00 PM",
+          "student1": "Liam",
+          "student2": "Nick",
+          "supervisor": "Mr. Story",
+          "studentLoc": "Morgan Hall",
+          "joinLink": "https://us05web.zoom.us/j/85890357407?pwd=cmZTYXdEUVh2VnlLUkFLWDl3QmQwZz09"
+        },
+        {
+          "date": "Mar 2, 2022",
+          "start": "9:30 AM",
+          "end": "10:00 AM",
+          "student1": "Olivia",
+          "student2": "Noah",
+          "supervisor": "Mr. Story",
+          "studentLoc": "Olin Hall",
+          "joinLink": "https://us05web.zoom.us/j/88237285927?pwd=Z1lVQkE3cU9RczJSTXh2Z2kzeVEzUT09"
+        },
+        {
+          "date": "Oct 19, 2022",
+          "start": "10:30 AM",
+          "end": "11:00 AM",
+          "student1": "Emma",
+          "student2": "Ava",
+          "supervisor": "Mr. Story",
+          "studentLoc": "Project Center",
+          "joinLink": "https://us05web.zoom.us/j/88663413457?pwd=cmJiSGJRZ2RhMi8xcUg5L2hMUzZUQT09"
+        }
+      ],
+      "feedback": [
+        {
+          "timeSpent": "00:00:15",
+          "averageTime": "00:00:19",
+          "correctAnswer": "14",
+          "answers": ["23", "21", "14"]
+        },
+        {
+          "timeSpent": "00:00:22",
+          "averageTime": "00:00:19",
+          "correctAnswer": "14",
+          "answers": ["19", "17", "14"]
+        }
+      ],
+      "assignments": [
+        {
+          "name": "",
+          "percentCorrect": ["", ""],
+          "timeSpent": ["", ""],
+          "lastWorked": ["", ""],
+          "standards": ""
+        },
+        {
+          "name": "Quadratic Formula",
+          "percentCorrect": ["%80", "%60"],
+          "timeSpent": ["30 mins", "60 mins"],
+          "lastWorked": ["Apr 21, 2021", "Jun 17, 2021"],
+          "standards": "Algebra"
+        },
+        {
+          "name": "Vocabulary",
+          "percentCorrect": ["%60", "%70"],
+          "timeSpent": ["90 mins", "30 mins"],
+          "lastWorked": ["May 3, 2021", "Aug 24, 2021"],
+          "standards": "English"
+        },
+        {
+          "name": "Periodic Table",
+          "percentCorrect": ["%90", "%80"],
+          "timeSpent": ["60 mins", "30 mins"],
+          "lastWorked": ["Jun 19, 2021", "Apr 20, 2021"],
+          "standards": "Chemistry"
+        },
+        {
+          "name": "Book Response",
+          "percentCorrect": ["%70", "%80"],
+          "timeSpent": ["60 mins", "90 mins"],
+          "lastWorked": ["Aug 25, 2021", "May 14, 2021"],
+          "standards": "Writing"
+        },
+        {
+          "name": "SAT Questions",
+          "percentCorrect": ["%80", "%70"],
+          "timeSpent": ["30 mins", "60 mins"],
+          "lastWorked": ["Oct 19, 2021", "Aug 28, 2021"],
+          "standards": "Standardized Testing"
+        }
+      ]
+    }
+  ],
+  "students": [
+    {
+      "username": "Adam",
+      "password": "wpiPassword12!",
+      "meetings": [
+        {
+          "date": "May 3, 2022",
+          "start": "6:30 AM",
+          "end": "7:00 AM",
+          "tutor": "Mrs. Jones",
+          "supervisor": "Mr. Story",
+          "tutorLoc": "Library",
+          "joinLink": "https://us05web.zoom.us/j/81593225280?pwd=VmFmWkoraTFqREJqakZKU3lVNXJGdz09"
+        },
+        {
+          "date": "Jun 17, 2022",
+          "start": "8:00 AM",
+          "end": "8:30 AM",
+          "tutor": "Mr. King",
+          "supervisor": "Mr. Story",
+          "tutorLoc": "Zoom (View Recording)",
+          "joinLink": "https://us05web.zoom.us/j/87350243103?pwd=cXdBbWJoWHgxbmtQQUpsS09CTC9XZz09"
+        },
+        {
+          "date": "Jul 8, 2022",
+          "start": "3:00 PM",
+          "end": "3:30 PM",
+          "tutor": "Mrs. Scott",
+          "supervisor": "Mr. Story",
+          "tutorLoc": "Zoom (View Recording)",
+          "joinLink": "https://us05web.zoom.us/j/87560967961?pwd=THdrUmtFaW50QmdxeHBKaFFyWTBRUT09"
+        },
+        {
+          "date": "Aug 25, 2022",
+          "start": "4:30 PM",
+          "end": "5:00 PM",
+          "tutor": "Mrs. Bell",
+          "supervisor": "Mr. Story",
+          "tutorLoc": "Library",
+          "joinLink": "https://us05web.zoom.us/j/85890357407?pwd=cmZTYXdEUVh2VnlLUkFLWDl3QmQwZz09"
+        },
+        {
+          "date": "Mar 2, 2022",
+          "start": "9:30 AM",
+          "end": "10:00 AM",
+          "tutor": "Mr. Perry",
+          "supervisor": "Mr. Story",
+          "tutorLoc": "Library",
+          "joinLink": "https://us05web.zoom.us/j/88237285927?pwd=Z1lVQkE3cU9RczJSTXh2Z2kzeVEzUT09"
+        },
+        {
+          "date": "Oct 19, 2022",
+          "start": "10:30 AM",
+          "end": "11:00 AM",
+          "tutor": "Mrs. Long",
+          "supervisor": "Mr. Story",
+          "tutorLoc": "Zoom (View Recording)",
+          "joinLink": "https://us05web.zoom.us/j/88663413457?pwd=cmJiSGJRZ2RhMi8xcUg5L2hMUzZUQT09"
+        }
+      ]
+    }
+  ],
+  "teachers": [
+    {
+      "username": "Mr. Grabowski",
+      "password": "wpiPassword12!",
+      "reports": [
+        {
+          "studentName": "Jamal",
+          "tutorComments": "Jamal did very well in tutoring today. Tell him to keep up the good work.",
+          "skillsCovered": "3",
+          "skillsLearned": "2"
+        },
+        {
+          "studentName": "Tanisha",
+          "tutorComments": "Tell Tanisha how much she has improved in the tutoring.",
+          "skillsCovered": "4",
+          "skillsLearned": "2"
+        },
+        {
+          "studentName": "Gabriela",
+          "tutorComments": "Gabriela was absent for the tutoring session.",
+          "skillsCovered": "2",
+          "skillsLearned": "1"
+        },
+        {
+          "studentName": "Darnell",
+          "tutorComments": "Darnell did a great investigation of the Pythagorean Theorem and stayed engaged.",
+          "skillsCovered": "2",
+          "skillsLearned": "2"
+        },
+        {
+          "studentName": "Jake",
+          "tutorComments": "Tell Jake that we will practice solving problems next time.",
+          "skillsCovered": "3",
+          "skillsLearned": "1"
+        }
+      ]
+    }
+  ]
+}
